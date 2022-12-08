@@ -1,0 +1,6 @@
+com\mycompany\sistema\Sistema.class
+sistema\empleadosGUI\FrmEmpleados$2.class
+sistema\empleadosGUI\FrmEmpleados.class
+sistema\empleadosGUI\FrmEmpleados$1.class
+sistema\empleados\BL\empleadosBL.class
+sistema\empleadosDAL\conexion.class
